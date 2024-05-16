@@ -1,0 +1,1 @@
+Crud_Movie_app without using database instead I am using golang slices and use gorilla mux for routing 🤓
